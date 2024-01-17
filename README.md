@@ -1,3 +1,3 @@
 # teste-git
 
-eu sou um teste
+Padrão de projeto
